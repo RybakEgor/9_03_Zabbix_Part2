@@ -19,7 +19,7 @@
 
 ### Ответ:
 
-
+![Задание 1](https://github.com/RybakEgor/9-01_Yandex_Monitoring/blob/main/img/Задание1.png)
 
  ---
 
@@ -37,9 +37,6 @@
 #### Требования к результату
 - [ ] Результат данного задания сдавайте вместе с заданием 3
 
-### Ответ:
-
-
  ---
 
 ### Задание 3
@@ -56,7 +53,8 @@
 
 ### Ответ:
 
-
+![Задание 1](https://github.com/RybakEgor/9-01_Yandex_Monitoring/blob/main/img/Задание2.png)
+![Задание 1](https://github.com/RybakEgor/9-01_Yandex_Monitoring/blob/main/img/Задание3.png)
  ---
 
 ### Задание 4
@@ -70,7 +68,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 ### Ответ:
-
+![Задание 1](https://github.com/RybakEgor/9-01_Yandex_Monitoring/blob/main/img/Задание4.png)
  ---
 
 ### Задание 5* со звёздочкой
